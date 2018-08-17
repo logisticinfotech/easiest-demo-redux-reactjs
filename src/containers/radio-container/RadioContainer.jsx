@@ -9,17 +9,13 @@ class RadioContainer extends Component {
         return (
             <div className="content">
                 <div className="row">
-                    <div className="col-md-12">
-                        <RadioComponent />
-                    </div>
+                    <RadioComponent />
                 </div>
                 <div className="row">
                     <div className="col-md-8 m-auto">
                         <h2>Duplicating state in child component</h2>
                         <div className="row">
-                            <div className="col-md-12">
-                                <DuplicateRadioComponent />
-                            </div>
+                            <DuplicateRadioComponent />
                         </div>
                     </div>
                 </div>

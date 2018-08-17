@@ -1,5 +1,5 @@
 .navbar {
-    background-color: green;
+    background-color: #20232a;
 }
 
 .navbar ul {
@@ -15,7 +15,7 @@
 }
 
 .navbar ul li a.active {
-    color: green;
+    color: #20232a;
     font-weight: 600;
     border-radius: .25rem;
     background-color: #fff;
@@ -24,4 +24,12 @@
 
 .navbar ul li a:hover {
     border-radius: .25rem;
+}
+
+.logo-title {
+    color: #61dafb;
+    margin-left: 10px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
 }

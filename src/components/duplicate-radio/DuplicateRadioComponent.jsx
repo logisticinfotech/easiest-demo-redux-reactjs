@@ -6,7 +6,7 @@ class DuplicateRadioComponent extends Component {
 
     render() {
         return (
-            <div className="col-md-6 form-group">
+            <div className="form-group">
                 <div className="form-check">
                     <input type="radio" name="options2" checked={this.props.selectedOption === 1} id="option11" onChange={() => this.props.radioChanged(1)} />
                     <label className="form-check-label" htmlFor="option11"> Option 1</label>

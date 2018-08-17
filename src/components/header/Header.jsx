@@ -24,6 +24,10 @@ class Header extends Component {
                         <NavLink className="nav-link" exact={true} to="/radio" activeClassName="active">Radio</NavLink>
                     </li>
                 </ul>
+                <NavLink className="nav-link" exact={true} to="/tabs">
+                    <img src="images/logo.svg" alt="" height="20" />
+                    <span className="logo-title">React</span>
+                </NavLink>
             </nav>
         );
     }
