@@ -109,5 +109,4 @@ Run `npm start` for a dev server. Navigate to `http://localhost:3000/`. The app 
 
 ## Further help
 
-Checkout full blog [here].
-URL
+Checkout full blog [https://www.logisticinfotech.com/blog/easiest-demo-to-learn-redux-in-reactjs-with-code-example/]
