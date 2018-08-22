@@ -1,6 +1,6 @@
 # Easiest React Redux Demo with little UI state managment like tab, input, select, checkbox, radio
 
-Purpose of this demo is to understand redux easily. You can find step by step guide here to understand this demo properly.
+Purpose of this demo is to understand redux easily. You can find step by step guide [here](https://www.logisticinfotech.com/blog/easiest-demo-to-learn-redux-in-reactjs-with-code-example/) to understand this demo properly.
 
 ## React Redux configuration
 
@@ -109,4 +109,4 @@ Run `npm start` for a dev server. Navigate to `http://localhost:3000/`. The app 
 
 ## Further help
 
-Checkout full blog [https://www.logisticinfotech.com/blog/easiest-demo-to-learn-redux-in-reactjs-with-code-example/]
+Checkout full blog [here](https://www.logisticinfotech.com/blog/easiest-demo-to-learn-redux-in-reactjs-with-code-example/)
